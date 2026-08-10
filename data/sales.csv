@@ -1,0 +1,6 @@
+transaction_id,customer_id,product_category,amount,transaction_date,store_id
+TX1001,CUST001,Electronics,250.00,2026-10-01,STORE_A
+TX1002,CUST002,Furnitures,450.50,2026-10-01,STORE_B
+TX1003,CUST003,Electronics,-50.00,2026-10-01,STORE_A
+TX1004,CUST004,Apparel,89.99,2026-10-02,STORE_C
+TX1005,CUST005,Electronics,1200.00,2026-10-02,STORE_A
